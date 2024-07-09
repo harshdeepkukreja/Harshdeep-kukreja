@@ -1,3 +1,4 @@
+![logo](https://github.com/harshdeepkukreja/Harshdeep-kukreja/blob/main/HARSHDEEP%20KUKREJA.png)
 <h1 align="center">Hi 👋, I'm Harshdeep Kukreja</h1>
 <h3 align="center">Fourth-year computer science engineering student skilled in front-end and back-end development, capable of leading cross-functional teams.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
